@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  font-family: arial;
+}
+
+#header {
+  background-color: gray;
+  color: white;
+  position: absolute;
+  width: 100%;
+  top: -1px;
+  left: -1px;
+}
+
+#sub_header {
+  margin-top: -20px;
+}
