@@ -7,5 +7,5 @@ function openHome() {
 }
 
 function openGoodergames() {
-  window.open('https://goodergames.github.io/', '_self')
+  window.open('https://goodergames.github.io/', '_blank')
 }
