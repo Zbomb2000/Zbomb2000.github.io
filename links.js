@@ -5,3 +5,7 @@ function openPrograms() {
 function openHome() {
     window.open('index.html', '_self');
 }
+
+function openGoodergames() {
+  window.open('https://goodergames.github.io/', '_self')
+}
